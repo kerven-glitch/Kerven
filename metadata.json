@@ -1,0 +1,7 @@
+{
+  "name": "Ax-Group AI Tech - Localized AI Receptionist",
+  "description": "Localized AI receptionist solutions to prevent lead loss for local businesses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
